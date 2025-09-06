@@ -1,4 +1,5 @@
 # elifbykrbc-Pusula_Elif_Buyukarabaci
+Elif Büyükarabacı - buyukarabacielif@gmail.com
 Bu proje, bir sağlık veri seti üzerinde EDA(exploratory data analysis) uygulanması, preprocessing ve sonuçlara dair yorumlar içerir.
 
 ## Adımlar
